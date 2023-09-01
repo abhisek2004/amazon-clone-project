@@ -8,7 +8,7 @@ Amazon-clone  This is a clone of a e-commerce website which is Amazon (Front-end
 
 ## Screenshots
 
-![Home page](Screenshot_amazon_clone_project)
+![Home page] ![Screenshot_amazon_clone_project](https://github.com/abhisek2004/amazon-clone-project/assets/117925314/8e252ff9-aa63-453d-a5c0-8277895817d2)
 
 # Technologies (Frameworks or libraries or packages or database)
 - HTML
