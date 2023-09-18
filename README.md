@@ -2,7 +2,6 @@
 Amazon-clone  This is a clone of a e-commerce website which is Amazon (Front-end part only)
 
 ### Live website link: https://64f1f34e26c2227c77bb8000--curious-donut-5d8f73.netlify.app/
-## Features
 
 - Home page clone
 
