@@ -12,3 +12,5 @@ Amazon-clone  This is a clone of a e-commerce website which is Amazon (Front-end
 # Technologies (Frameworks or libraries or packages or database)
 - HTML
 - CSS
+
+- CREATED BY ABHISEK PANDA
